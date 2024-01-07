@@ -1,1 +1,3 @@
-console.log("Hello Ts !");
+var myName = "Chhatrapati";
+var myAge = "23";
+console.log(myName);
